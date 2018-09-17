@@ -1,4 +1,4 @@
-package br.com.agmg.udemy.dois;
+package br.com.agmg.udemy.genericmethod;
 
 public class App {
 

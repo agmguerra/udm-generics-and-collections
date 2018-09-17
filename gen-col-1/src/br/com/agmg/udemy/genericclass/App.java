@@ -1,4 +1,4 @@
-package br.com.agmg.udemy.um;
+package br.com.agmg.udemy.genericclass;
 
 class Store<T> {
 	private T item;
